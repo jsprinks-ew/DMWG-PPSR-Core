@@ -1,4 +1,4 @@
-# PPSR Core Data & Metadata Standards Repsository
+# PPSR Core Data & Metadata Standards Repository
 
 **THIS REPOSITORY IS STILL UNDER DEVELOPMENT**
 
